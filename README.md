@@ -1,2 +1,2 @@
-# bot-indomaret-point
+# FRee
 BOT OK
